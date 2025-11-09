@@ -1,2 +1,3 @@
-# cpp23
-c++23 notes
+# notes
+
+Bjarne Stroustrup's "Programming, Principles and Practice using C++"
